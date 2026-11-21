@@ -62,17 +62,30 @@ Commercial production web platform for a guest house complex in Russia — inter
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### [claude-customization](https://github.com/Nurislam-Abdimalikov/claude-customization) &nbsp;`TypeScript · Chrome MV3 · VS Code`
+### [claude-customization](https://github.com/Nurislam-Abdimalikov/claude-customization) &nbsp;`Chrome MV3 · VS Code`
 **Cross-Platform UI Theme & Live Wallpaper Engine**
 
-Modular Chrome Extension (Manifest V3), VS Code Extension, and Next.js showcase app adding custom CSS variable themes, animated Canvas live wallpapers (particles, matrix), and custom video backgrounds without performance overhead.
+Modular Chrome Extension (Manifest V3), VS Code Extension, and Next.js showcase app adding custom CSS variable themes, animated Canvas live wallpapers (particles, matrix), and custom video backgrounds.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![VS Code Extension](https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [NEXUS3D](https://github.com/Nurislam-Abdimalikov/NEXUS3D) &nbsp;`3D · GSAP · Canvas`
+**Immersive 3D Web Showcase**
+
+High-fps interactive 3D landing experience with GSAP ScrollTrigger pinned sections, Lenis smooth scroll, 3D video cube transforms, and custom Canvas 2D cursor particle physics.
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
@@ -178,13 +191,21 @@ AI-powered automated video clipping tool.
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 **Mobile**
 
@@ -197,12 +218,19 @@ AI-powered automated video clipping tool.
 **Backend, AI & Tools**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white&style=for-the-badge)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-20232A?style=for-the-badge&logo=claude&logoColor=D97757)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
